@@ -19,8 +19,8 @@
 
 .duck {
     position: absolute;
-    width: 120px;
-    height: 120px;
+    width: 140px;
+    height: 140px;
     background-image: url('./imagens/mosquito.png'); /* Substitua 'duck.png' pelo caminho da sua imagem */
     background-size: cover;
     transition: top 0.5s, left 0.5s;
