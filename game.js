@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }, moveInterval);
     }
-
+ 
     function moveDuck(duck) {
         let newPos = getNewPosition(duck);
         duck.style.top = newPos.top + 'px';
